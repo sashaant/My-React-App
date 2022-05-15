@@ -1,0 +1,5 @@
+const Data = {
+    "name": "Sasha",
+    "surname" : "Antonenko",
+    "mobile" : "093-123-45-67",
+  }
